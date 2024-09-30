@@ -10,8 +10,7 @@
     ```html
     <html>  
     <head>
-    <!-- babel transpiler code goes here -->
-    <script type="text/babel">   
+    <script>   
         
         // your code here
 
@@ -54,8 +53,8 @@
     ```html
     <html>  
     <head>
-    <!-- babel transpiler code goes here -->
-    <script type="text/babel">   
+    
+    <script>   
         
         // (a)
         var numbers = [1,2,3,4,5];
